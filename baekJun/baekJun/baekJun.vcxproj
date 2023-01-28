@@ -130,6 +130,7 @@
     <ClCompile Include="1로 만들기 (1463).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="백준 연습용.cpp" />
     <ClCompile Include="피자 오븐 (19940).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
