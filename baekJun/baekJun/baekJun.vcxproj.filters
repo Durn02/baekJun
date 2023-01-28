@@ -24,5 +24,11 @@
     <ClCompile Include="백준 연습용.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2xn 타일링 (11726).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2xn 타일링 2 (11727).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
