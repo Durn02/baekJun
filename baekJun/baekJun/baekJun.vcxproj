@@ -133,7 +133,10 @@
     <ClCompile Include="2xn 타일링 (11726).cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="2xn 타일링 2 (11727).cpp" />
+    <ClCompile Include="2xn 타일링 2 (11727).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="동전 0 (11047).cpp" />
     <ClCompile Include="백준 연습용.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
