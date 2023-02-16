@@ -39,5 +39,11 @@
     <ClCompile Include="거짓말 (1043).cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="거짓말 (1043)-2.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="여행 가자.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
