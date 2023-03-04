@@ -1,2 +1,6 @@
-﻿  여행 가자.cpp
+﻿  수들의 합2 (2003).cpp
+C:\0.programming\baekJun\baekJun\baekJun\수들의 합2 (2003).cpp(12,13): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\0.programming\baekJun\baekJun\baekJun\수들의 합2 (2003).cpp(17,15): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\0.programming\baekJun\baekJun\baekJun\수들의 합2 (2003).cpp(21,16): warning C4244: '+=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\0.programming\baekJun\baekJun\baekJun\수들의 합2 (2003).cpp(26,15): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   baekJun.vcxproj -> C:\0.programming\baekJun\baekJun\x64\Debug\baekJun.exe
