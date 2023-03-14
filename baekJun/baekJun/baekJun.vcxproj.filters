@@ -39,22 +39,37 @@
     <ClCompile Include="거짓말 (1043).cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="거짓말 (1043)-2.cpp">
+    <ClCompile Include="거짓말 %281043%29 방법2.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="여행 가자.cpp">
+    <ClCompile Include="여행 가자 %281976%29.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="사분면 고르기 %2814681%29.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="선분 교차 2 %2817387%29.cpp">
-      <Filter>리소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="수들의 합2 (2003).cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="동전 1.cpp">
+    <ClCompile Include="동전 1 %282293%29.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="외판원 순회(2098).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="X보다 작은 수 %2810871%29.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 합 (11720).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="나머지 (3052).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="벌집 (2292).cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 수 5 (10870).cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
